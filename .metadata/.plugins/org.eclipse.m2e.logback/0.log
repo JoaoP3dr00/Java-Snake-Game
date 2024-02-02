@@ -61,3 +61,4 @@
 2024-01-30 19:59:33,921 [Worker-46: Launching New_configuration (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/joao/.p2/pool/plugins/com.google.guava.failureaccess_1.0.2.jar
 2024-01-30 19:59:33,923 [Worker-46: Launching New_configuration (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/joao/1-Estudo/Javaprogramming/snakegame/SnakeGame/src":
 2024-01-30 19:59:33,923 [Worker-46: Launching New_configuration (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-02-02 10:29:59,056 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
